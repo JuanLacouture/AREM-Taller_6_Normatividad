@@ -1,27 +1,9 @@
-# 📚 Referencias Bibliográficas del Taller
+# Referencias Legales y Normativas
 
-Este archivo contiene las fuentes consultadas para el desarrollo del taller, tanto para el componente técnico como para la investigación complementaria.
-
-## 🔖 Taller
-_Taller X - [Nombre del Taller]_
-
----
-
-## 📚 Referencias utilizadas
-
-1. Apellido, Nombre. *Título del libro o artículo*. Editorial, Año. URL o DOI.  
-2. Organización. *Especificación técnica o estándar consultado*. URL.  
-3. Sitio web institucional. "Título del artículo o página". [Enlace](https://ejemplo.com). Fecha de consulta: DD/MM/AAAA.  
-4. Otro recurso académico o técnico citado.
-
----
-
-## 📌 Recomendaciones
-
-- Usa formato APA o IEEE para citar.
-- No incluyas fuentes como Wikipedia si hay mejores alternativas.
-- Si usas inteligencia artificial para redactar o investigar, cítalo como "Fuente asistida por IA: ChatGPT, julio 2025".
-
----
-
-_Este archivo forma parte de la entrega académica del curso AREM - Universidad de La Sabana._
+- **Ley 1581 de 2012** – Protección de Datos Personales.  
+- **Decreto 1377 de 2013** – Reglamenta parcialmente la Ley 1581.  
+- **Resolución 1995 de 1999 (MinSalud)** – Historias clínicas.  
+- **Ley 23 de 1981** – Ética médica.  
+- **ISO/IEC 27001:2022** – Gestión de seguridad de la información.  
+- **GDPR UE 2016/679** – Reglamento europeo de protección de datos.  
+- **Guía SIC de tratamiento de datos personales sensibles.**  
